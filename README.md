@@ -1,5 +1,5 @@
 https://api.tvmaze.com/shows
 
 
-![ss](<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/63b8868a-60c7-4bf4-91ca-944ed895b725" />)
+![ss](https://github.com/SUDIP-7U/Simple-API-calls-using-Retrofit-Coil-MoviceLIST-Api/blob/main/Screenshot_20260328_111209.png?raw=true)
 
